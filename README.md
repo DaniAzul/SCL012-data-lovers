@@ -7,9 +7,6 @@
 * [3. Historias de usuarios](#3-historias-de-usuarios)
 * [4. Esquemas y prototipado de la página](#4-esquema-y-prototipado-de-la-pagina)
 * [5. Presentación a usuarios](#5-presentacion-a-usuarios)
-* [6. Consideraciones finales](#6-consideraciones-finales)
-
-***
 
 ## 1. Preámbulo
 [Harry Potter: Wizards Unite](https://www.harrypotterwizardsunite.com/es/) es un juego de realidad 
@@ -166,7 +163,3 @@ para llegar al resultado.
 
 Finalmente, luego de estos comentarios y otros recibidos en un taller de UX, decidimos cambiar la tipografía y agregar un 
 cuadro de color sólido pero traslucido sobre el cual ubicamos las letras que costaba leer.
-
-
-## 5. Consideraciones finales
-
