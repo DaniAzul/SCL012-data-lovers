@@ -38,14 +38,12 @@ en la primera imagen se puede apreciar en morado una serie de idas que queríamo
 se observan características de los usuarios a quienes queremos llegar y en la tercera está contenida información
 que teníamos inicialmente respecto al juego.
 
-![Fotografía de ideas a realizar]
-(https://raw.githubusercontent.com/DaniAzul/SCL012-data-lovers/tree/master/src/assert/morado.JPG)
-
-![Fotografía con caracteristicas de ls usuarios a los que queremos llegar]
-(https://raw.githubusercontent.com/DaniAzul/SCL012-data-lovers/tree/master/src/assert/celeste.JPG)
-
-![Fotografía con información respecto al juego]
-(https://raw.githubusercontent.com/DaniAzul/SCL012-data-lovers/tree/master/src/assert/fucsia.JPG)
+![Fotografía de ideas a realizar](https://i.imgur.com/orMj8AX.jpg)
+Imagen 1
+![Fotografía con caracteristicas de ls usuarios a los que queremos llegar](https://i.imgur.com/2lilwKL.jpg)
+Imagen 2
+![Fotografía con información respecto al juego](https://i.imgur.com/amXEc9g.jpg)
+Imagen 3
 
 En este grupo de imágenes se puede apreciar como decidimos organizar la estructura en base a relacionar los conceptos
 que habíamos escrito de forma separada. Quedando primero, en celeste, las características de las/los usuarias/os a quienes queríamos
@@ -53,15 +51,12 @@ dirigir nuestro sitio, en verde quedan los dos objetivos macro que queríamos co
 y rodeando a estos macroobjetivos están en rosado características puntuales del diseño de la página que pensamos nos 
 ayudarían a cumplir estos macroobjetivos. Finalmente mantenemos en fucsia y al final la información inicial sobre el juego.
 
-![Organización de ideas usuario]
-(https://raw.githubusercontent.com/DaniAzul/SCL012-data-lovers/tree/master/src/assert/organizado0.JPG)
-
-![Organización de macroobjetivos con sus caracteristicas]
-(https://raw.githubusercontent.com/DaniAzul/SCL012-data-lovers/tree/master/src/assert/organizado1.JPG)
-
-![Organización de conocimiento sobre el juego]
-(https://raw.githubusercontent.com/DaniAzul/SCL012-data-lovers/tree/master/src/assert/organizado2.JPG)
-
+![Organización de ideas usuario](https://i.imgur.com/s9mn1q9.jpg)
+Imagen 2
+![Organización de macroobjetivos con sus caracteristicas](https://i.imgur.com/qjVGg5p.jpg)
+Imagen 3
+![Organización de conocimiento sobre el juego](https://i.imgur.com/ix5R0Oa.jpg)
+Imagen 4
 
 
 En base a nuestro enfoque, logramos crear 3 historias de usuario. De estas historias de usuario completamos
@@ -74,8 +69,6 @@ Para llegar a este resultado recurrimos a la organización de conceptos que quer
 Yo como *nativa digital* quiero *aprender los personajes principales de Harry Potter* para *poder jugar
 Harry Potter: Wizards Unite*.
       **Criterio de aceptación**
-
-
 El usuario debe escoger una casa para pasar a la siguiente etapa
 El usuario debe escoger una ascendencia 
 El usuario debe escoger si el personaje que quiere conocer esta vivo o muerto
@@ -93,18 +86,17 @@ de mejor manera las pistas que me entrega el juego*.
 
 Luego de desarrollar las historias de usuario y comprendiendo que características queríamos que tuviera nuestro
 diseño, procedimos a estructurar un esquema básico de la idea de página. Este diseño fue primero dibujado en papel
-(imagen X) y luego fue llevado a Invasión para pasarlo al computador (imagen X), sobre eso se desarrolló el [prototipo](https://www.figma.com/proto/POEjUUgCgfa2MaTLh3TzjS/Untitled?node-id=1%3A2&scaling=scale-down)
-de alta fidelidad en Figma como se aprecia en la imagen X. 
+(imagen 6) y luego fue llevado a Invasión para pasarlo al computador (imagen 7), sobre eso se desarrolló el [prototipo](https://www.figma.com/proto/POEjUUgCgfa2MaTLh3TzjS/Untitled?node-id=1%3A2&scaling=scale-down)
+de alta fidelidad en Figma como se aprecia en la imagen 8. 
 
-![Imagen del primer esquema de la página]
-(https://raw.githubusercontent.com/DaniAzul/WizardsUnite/SCL012-data-lovers/tree/master/src/assert/primeraidea.JPG)
+![Imagen del primer esquema de la página](https://i.imgur.com/eQvgDxa.jpg)
+Imagen 6
 
-![Imagen del esquema realizado en InVision]
-(https://raw.githubusercontent.com/DaniAzul/SCL012-data-lovers/tree/master/src/assert/mockupInvision.JPG)
+![Imagen del esquema realizado en InVision](https://i.imgur.com/1UYhQRN.jpg)
+Imagen 7
 
-![Imagen del prototipo de alta fidelidad hecho en Figma]
-(https://raw.githubusercontent.com/DaniAzul/SCL012-data-lovers/tree/master/src/assert/prototipoaltafidelidad.JPG)
-
+![Imagen del prototipo de alta fidelidad hecho en Figma](https://i.imgur.com/3LwpahL.jpg)
+Imagen 8
 
 
 ## 4. Presentación a usuarios
