@@ -39,11 +39,20 @@ se observan características de los usuarios a quienes queremos llegar y en la t
 que teníamos inicialmente respecto al juego.
 
 ![Fotografía de ideas a realizar](https://i.imgur.com/orMj8AX.jpg)
+
 Imagen 1
+
+
 ![Fotografía con caracteristicas de ls usuarios a los que queremos llegar](https://i.imgur.com/2lilwKL.jpg)
+
 Imagen 2
+
+
 ![Fotografía con información respecto al juego](https://i.imgur.com/amXEc9g.jpg)
+
 Imagen 3
+
+
 
 En este grupo de imágenes se puede apreciar como decidimos organizar la estructura en base a relacionar los conceptos
 que habíamos escrito de forma separada. Quedando primero, en celeste, las características de las/los usuarias/os a quienes queríamos
@@ -52,11 +61,19 @@ y rodeando a estos macroobjetivos están en rosado características puntuales de
 ayudarían a cumplir estos macroobjetivos. Finalmente mantenemos en fucsia y al final la información inicial sobre el juego.
 
 ![Organización de ideas usuario](https://i.imgur.com/s9mn1q9.jpg)
-Imagen 2
-![Organización de macroobjetivos con sus caracteristicas](https://i.imgur.com/qjVGg5p.jpg)
-Imagen 3
-![Organización de conocimiento sobre el juego](https://i.imgur.com/ix5R0Oa.jpg)
+
 Imagen 4
+
+
+![Organización de macroobjetivos con sus caracteristicas](https://i.imgur.com/qjVGg5p.jpg)
+
+Imagen 5
+
+
+![Organización de conocimiento sobre el juego](https://i.imgur.com/ix5R0Oa.jpg)
+
+Imagen 6
+
 
 
 En base a nuestro enfoque, logramos crear 3 historias de usuario. De estas historias de usuario completamos
@@ -90,13 +107,19 @@ diseño, procedimos a estructurar un esquema básico de la idea de página. Este
 de alta fidelidad en Figma como se aprecia en la imagen 8. 
 
 ![Imagen del primer esquema de la página](https://i.imgur.com/eQvgDxa.jpg)
+
 Imagen 6
 
+
 ![Imagen del esquema realizado en InVision](https://i.imgur.com/1UYhQRN.jpg)
+
 Imagen 7
 
+
 ![Imagen del prototipo de alta fidelidad hecho en Figma](https://i.imgur.com/3LwpahL.jpg)
+
 Imagen 8
+
 
 
 ## 4. Presentación a usuarios
