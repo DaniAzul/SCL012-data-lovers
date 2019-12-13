@@ -24,7 +24,7 @@ Esta página busca ser una ayuda para comenzar tu viaje por Harry Potter: Wizard
 Esta página busca ser una ayuda para quienes quieran comenzar su aventura en Harry Potter: Wizards Unite
 tratando de entregar una guía de los personajes fundamentales en la historia.
 Por ende, nos enfocamos en un público joven que no haya crecido junto con la historia, principalmente nativos
-tecnológicos hasta los 21 años que quizás hayan visto un par de películas influenciados por hermanos, hermanas o 
+tecnológicos hasta los 24 años que quizás hayan visto un par de películas influenciados por hermanos, hermanas o 
 gente un poco mayor.
 
 
