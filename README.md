@@ -127,31 +127,42 @@ Imagen 8
 
 Este prototipo de alta fidelidad fue presentado posteriormente a 4 potenciales usuarios que respondían a ser gente
 de menos de 25 años que tenían poco o nulo conocimiento sobre Harry Potter.
-      **Valentina**
+     
+**Valentina**
         24 años, estudiante de pedagogía en Historia, entusiasta del universo Harry Potter, sin cercanía al juego.
+
         "Las letras del inicio cuesta leerlas, el color dificulta su lectura". 
-       Ella menciona que la sensación general que le produce el diseño y el flujo dentro del prototipo le gusta,
-       menciona que le gusta mucho la tipografía y la sensación general que le produce. De manera enérgica repite
-       que quiere ver la página funcionando.
-        **Carla**
+
+Ella menciona que la sensación general que le produce el diseño y el flujo dentro del prototipo le gusta,
+menciona que le gusta mucho la tipografía y la sensación general que le produce. De manera enérgica repite
+que quiere ver la página funcionando.
+
+**Carla**
         22 años, estudiante de pedagogía en Lenguaje, poca cercanía al universo Harry Potter, no sabía de la existencia del juego.
+
         "Los fondos son un poco monótonos"
-       Ella se fija en un error de gramática que hay en la primera página. También habla de que los fondos son un poco
-       monótonos y que deberíamos intentar jugar más con la temática detrás del libro como usar fondos asociados a los
-       libros, paisajes de la saga o pergaminos. También dice que le gustaría más brillo en la página y movilidad (haciendo
-       referencia a efectos en las transiciones).
-       **Kata**
+
+ Ella se fija en un error de gramática que hay en la primera página. También habla de que los fondos son un poco
+monótonos y que deberíamos intentar jugar más con la temática detrás del libro como usar fondos asociados a los
+libros, paisajes de la saga o pergaminos. También dice que le gustaría más brillo en la página y movilidad (haciendo referencia a efectos en las transiciones).
+
+**Kata**
         24 años, licenciada en Historia, entusiasta de los universos de fantasía, conoce el juego pero no lo ha jugado.
+       
         "Las letras del inicio son demasiado oscuras"
-       En general se muestra entusiasmada con la página en general, habla de que en la primera página -donde se incluye un
-       texto explicativo- y dice que las letras son demasiado oscuras y cuesta leerlas con el fondo. También habla de la
-       poca cantidad de opciones, esto debido a que nuestro prototipo tenía solo un camino habilitado.
-       **José**
+       
+  En general se muestra entusiasmada con la página en general, habla de que en la primera página -donde se incluye un
+  texto explicativo- y dice que las letras son demasiado oscuras y cuesta leerlas con el fondo. También habla de la
+  poca cantidad de opciones, esto debido a que nuestro prototipo tenía solo un camino habilitado.
+
+**José**
         23 años, estudiante de Derecho, poca cercanía al universo Harry Potter
+
         "Es clara, se entiende como seguir los pasos"
-       Lo primero en mencionar es una falta de ortografía presente en la primera página, además habla de que cuesta mucho
-       leer el texto debido al color del fondo. Considera que la pagina es auto explicativa y que es fácil seguir los pasos
-       para llegar al resultado. 
+
+Lo primero en mencionar es una falta de ortografía presente en la primera página, además habla de que cuesta mucho
+leer el texto debido al color del fondo. Considera que la pagina es auto explicativa y que es fácil seguir los pasos
+para llegar al resultado. 
 
 Finalmente, luego de estos comentarios y otros recibidos en un taller de UX, decidimos cambiar la tipografía y agregar un 
 cuadro de color sólido pero traslucido sobre el cual ubicamos las letras que costaba leer.
