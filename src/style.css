@@ -15,7 +15,7 @@ body {
 }
 
 h1 {
-    text-align: center;
+    text-align: left;
     font-family: HARRYP;
     font-size: 100px;
     margin:60px;
@@ -25,8 +25,9 @@ h1 {
 h2 {
     font-family: HARRYP;
     font-size: 40px;
-    text-align: center;
+    text-align: left;
     margin-top: 20px;
+    margin:60px;
     color: #3868A3;
     line-height: 30px;
 }
@@ -39,10 +40,10 @@ h2 {
   background-attachment: fixed;
   font-family: art;
   font-size: 20px;
-  text-align: center;
+  text-align: left;
   line-height: 35px;
   top: 60px;
-  margin: 40px;
+  margin:60px;
 }
 
 .paginauno {
@@ -75,7 +76,7 @@ order:3px;
 
 
 .text {
-    text-align: center;
+    text-align: left;
     font-family: art;
     font-size: 20px;
     line-height: 80px;
@@ -84,6 +85,7 @@ order:3px;
     font-weight: bolder;
     color: #000000;
     order: 1;
+    margin:60px;
     }
 
 
@@ -91,7 +93,7 @@ order:3px;
     display: flex;
     width: 50px;
     height: 50px;
-    margin-top: 5px;
+    margin-top: -10px;
 }
 
 .icons {
@@ -99,9 +101,18 @@ order:3px;
     flex-direction: row;
     justify-content: center;
     align-items: center;
+    /* margin-bottom: -50px */
 }
 
-.paginados {
+.links {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: -300px
+}
+
+.paginados, .paginatres {
     height: 100vh;
     overflow: hidden;
     background:url(css/fondo2.jpg);
@@ -164,18 +175,18 @@ order:3px;
     margin-bottom: 10px;
 } 
 
-.paginatres {
+/* .paginatres {
     height: 100vh;
     overflow: hidden;
     background:url(css/fondo2.jpg);
     background-attachment: fixed;
     background-size: cover;
     
-}
+} */
 
-.botonPersonaje {
+.botonPersonaje  {
 background: #FCEA4D;
-background-size: 10px 20px;
+background-size: 20px 40px;
 border: solid #BE9E2D;
 text-align: center;
 color: black;
@@ -186,7 +197,6 @@ text-decoration: none;
 opacity: 0.7;
 display: flex;
 justify-content: center;
-   
 }
 
 .paginacuatro {
@@ -271,13 +281,14 @@ font-size: 25px;
 
                
                 .info{
+                    float: left;
                     width: 200px;
                     height: 300px;
                     display: flex;
                     justify-content: space-around;
                     flex-flow: column;
-                    align-items: center;
-                    text-align: center;
+                    align-items: left;
+                    text-align: left;
                     }
 
 
@@ -295,12 +306,7 @@ font-size: 25px;
                     width: 100px;
                     height: 110px;
                 }
-                .links {
-                    display: flex;
-                    flex-direction: row;
-                    justify-content: center;
-                    align-items: center;
-                }
+        
 
                 .home {
                     width: 30px;
@@ -312,3 +318,4 @@ font-size: 25px;
                     padding: 20px 20px;
                     margin-left: 650px;
                 }
+               
